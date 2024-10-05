@@ -6,4 +6,4 @@ The program begins by prompting the user to specify the number of fields and the
 
 Following the data input, a menu-based user interface appears, offering various data modification functionalities and result display options. This allows users to view, modify, and analyze test results effectively.
 
-The implementation relies on C++ concepts, including pointers, functions, dynamic memory allocation, and dynamic arrays, ensuring efficient memory management and flexibility in handling varying amounts of data. This project aims to contribute to the understanding of pesticide effectiveness, ultimately promoting environmentally friendly agricultural practices.
+The implementation relies on C++ concepts, including pointers, functions, dynamic memory allocation, and dynamic arrays, ensuring efficient memory management and flexibility in handling varying amounts of data.
